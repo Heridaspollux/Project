@@ -5,6 +5,7 @@
 
 
 import ipywidgets as widgets
+from IPython.display import display
 
 # Create a widget
 text_widget = widgets.Text(description='Enter your name:')
