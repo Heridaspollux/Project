@@ -25,3 +25,4 @@ websockets==11.0.3
 urllib3==1.26.2
 pdf2image==1.16.0
 Pillow==9.1.0
+voila==0.4.0
