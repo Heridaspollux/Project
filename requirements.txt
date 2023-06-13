@@ -12,7 +12,6 @@ requires.io==0.2.6
 pdfminer==20191125
 plotly==5.7.0
 geocoder==1.38.1
-en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.2.0/en_core_web_sm-3.2.0-py3-none-any.whl
 PyQtWebEngine==5.15.5
 PyQtWebEngine-Qt5==5.15.2
 pywebview==3.6.3
