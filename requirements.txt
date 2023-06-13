@@ -78,7 +78,6 @@ docutils==0.18.1
 doqu==0.28.2
 duplicity==0.8.17
 eikon==1.1.15
-en-core-web-lg @ file:///home/hd/Downloads/en_core_web_lg-3.4.1-py3-none-any.whl
 en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.2.0/en_core_web_sm-3.2.0-py3-none-any.whl
 entrypoints==0.4
 evaluation==0.0.2
