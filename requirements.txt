@@ -13,7 +13,16 @@ requires.io==0.2.6
 pdfminer==20191125
 plotly==5.7.0
 geocoder==1.38.1
-pycopy-webbrowser==
+en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.2.0/en_core_web_sm-3.2.0-py3-none-any.whl
+PyQtWebEngine==5.15.5
+PyQtWebEngine-Qt5==5.15.2
+pywebview==3.6.3
+tkinterweb==3.13.2
+trio-websocket==0.9.2
+warc3-wet-clueweb09==0.2.5
+webencodings==0.5.1
+websocket-client==1.3.2
+websockets==11.0.3
 urllib3==1.26.2
 pdf2image==1.16.0
 Pillow==9.1.0
